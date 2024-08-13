@@ -1,10 +1,11 @@
-import DefaultPage from "./DefaultPage"
+import NavigationBar from "../components/NavigationBar"
+
 
 const NotFound = () => {
 
     return (
         <>
-        <DefaultPage/>
+        <NavigationBar/>
         <h1> Page not Found </h1>
         </>
 

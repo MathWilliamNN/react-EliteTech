@@ -1,0 +1,27 @@
+[
+  {
+    "src": "src/assets/images/Categories/C_cellphones.png",
+    "title": "Cellphones"
+  },
+  {
+    "src": "src/assets/images/Categories/C_Consoles.png",
+    "title": "Consoles"
+  },
+  {
+    "src": "src/assets/images/Categories/C_Headphones.png",
+    "title": "Peripherals"
+  },
+  {
+    "src": "src/assets/images/Categories/C_Accessories.png",
+    "title": "Accessories"
+  },
+  {
+    "src": "src/assets/images/Categories/C_ComputerCases.png",
+    "title": "Computer Cases"
+  },
+
+  {
+    "src": "src/assets/images/Categories/C_GPU.png",
+    "title": "Components"
+  }
+]

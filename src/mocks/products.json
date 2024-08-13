@@ -1,0 +1,38 @@
+[
+    {
+      "src": "src/assets/images/Products/P_Cellphone.png",
+      "title": "Iphone 15 Pro Max",
+      "description": "Experience cutting-edge performance and a stunning display with the latest iPhone 15 Pro Max.",
+      "price": "1,199 US$"
+    },
+    {
+      "src": "src/assets/images/Products/P_Console.png",
+      "title": "Playstation 5",
+      "description": "Dive into immersive gaming with the powerful PlayStation 5, featuring ultra-fast load times and breathtaking graphics.",
+      "price": "499 US$"
+    },
+    {
+      "src": "src/assets/images/Products/P_Headphones.png",
+      "title": "Freepik Gaming Headphones",
+      "description": "Enhance your gaming experience with Freepik Gaming Headphones, delivering crystal-clear audio and a comfortable fit.",
+      "price": "99 US$"
+    },
+    {
+      "src": "src/assets/images/Products/P_Accessories.png",
+      "title": "Type-C Cable Power Cord - USB",
+      "description": "Reliable and fast, this Type-C Cable Power Cord ensures your devices stay charged and connected.",
+      "price": "15 US$"
+    },
+    {
+      "src": "src/assets/images/Products/P_ComputerCase.png",
+      "title": "Razer Gaming Computer Case",
+      "description": "Protect your rig with the sleek and durable Razer Gaming Computer Case, designed for high-performance setups.",
+      "price": "149 US$"
+    },
+    {
+      "src": "src/assets/images/Products/P_GPU.png",
+      "title": "Dual Oc Palit Nvidia Geforce Rtx 3060",
+      "description": "Unleash your gaming potential with the Dual OC Palit Nvidia Geforce RTX 3060, offering incredible speed and realistic visuals.",
+      "price": "329 US$"
+    }
+]
