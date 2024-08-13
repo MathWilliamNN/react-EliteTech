@@ -1,0 +1,32 @@
+[
+    {
+      "id": "1",
+      "src": "./banner-1.png",
+      "Carousel": false
+    },
+    {
+      "id": "2",
+      "src": "./banner-2.png",
+      "Carousel": {
+        "title": "Black Friday Earpods",
+        "subtitle": "50% off"
+      }
+    },
+    {
+      "id": "3",
+      "src": "./banner-3.png",
+      "Carousel": {
+        "title": "Black Friday Headphones",
+        "subtitle": "50% off"
+      }
+    },
+    {
+      "id": "4",
+      "src": "./banner-4.png",
+      "Carousel": {
+        "title": "Black Friday Drones",
+        "subtitle": "50% off"
+      }
+    }
+  ]
+  
