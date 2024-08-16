@@ -1,0 +1,17 @@
+[
+    {
+      "id": "0",
+      "title": "Pix-Easy", 
+      "description": "Enjoy 5% off on purchases if you choose to use PIX as your payment method."
+    },
+    {
+        "id": "1",
+        "title": "Exchange, free of charge", 
+        "description": "You are free to exchange any products for 30 days after your purchase."
+    },
+    {
+        "id": "2",
+        "title": "Eco-friendly", 
+        "description": "Empowering a greener future, one choice at a time."
+    }
+]

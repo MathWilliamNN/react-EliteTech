@@ -3,6 +3,7 @@ import Categories from "../components/Categories"
 import Trending from "../components/Trending"
 import Footer from "../components/Footer"
 import NavigationBar from "../components/NavigationBar"
+import Benefits from "../components/Benefits"
 
 
 const Home = () => {
@@ -13,6 +14,7 @@ const Home = () => {
             <ControlledCarousel/>
             <Categories/>
             <Trending/>
+            <Benefits/>
             <Footer/>
         </>
     )
